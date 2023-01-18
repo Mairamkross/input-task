@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .block{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 200px auto;
+}
+.inp{
+    margin-top: 80px;
+} */
+.etaj{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+}
+.mam{
+    margin: auto;
+    width: 1000px;
+}
+.som{
+    padding: 5px 55px;
+    color: green;
+}
